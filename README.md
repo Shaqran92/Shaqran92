@@ -1,32 +1,46 @@
-<!-- Profile README for Shaqran Hussain -->
-
-<h1 align="center">Hi 👋, I'm Shaqran Hussain</h1>
-<h3 align="center">Python Developer | Data Analyst | Aspiring Data Scientist</h3>
+<!-- ===================== -->
+<!--  SHAQRAN HUSSAIN README -->
+<!-- ===================== -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaqranhussain01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.shaqranhussain.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:shaqran124@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shaqran%20Hussain&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Python%20Developer%20|%20Data%20Analyst%20|%20Aspiring%20Data%20Scientist&descAlignY=55" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;Aspiring+Data+Scientist;Turning+Data+into+Insights;Building+Clean+and+Scalable+Code" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I’m a **Python Developer and Data Analyst** passionate about building **data-driven solutions**, **automation tools**, and **clean, maintainable software**.  
-I enjoy working with **real-world datasets**, turning raw data into meaningful insights, and continuously improving my skills in **Machine Learning & AI**.
+I’m **Shaqran Hussain**, a **Python Developer and Data Analyst** with a strong interest in **Data Science, Machine Learning, and AI**.  
+I enjoy solving real-world problems through **data-driven approaches**, building **automation tools**, and writing **clean, maintainable code**.
 
-- 🔭 Currently working on **Python & Data Analysis projects**
-- 🌱 Learning **Machine Learning, Data Science & AI**
-- 🧠 Strong interest in **problem-solving & automation**
-- 🏆 Hackathon participant & continuous learner
+- 🔭 Working on **Python, Data Analysis & Automation projects**
+- 🌱 Currently learning **Machine Learning & AI**
+- 📊 Passionate about **data storytelling & insights**
+- 🧠 Strong problem-solving mindset
 - 📍 Jamshoro, Pakistan
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Shaqran92">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shaqranhussain01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.shaqranhussain.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="mailto:shaqran124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
@@ -34,15 +48,15 @@ I enjoy working with **real-world datasets**, turning raw data into meaningful i
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
 </p>
 
 ### 📊 Data Analysis & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
 </p>
 
 ### 🌐 Web Development
@@ -55,48 +69,48 @@ I enjoy working with **real-world datasets**, turning raw data into meaningful i
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-### 📚 Currently Learning
-- Machine Learning
-- Data Science Pipelines
-- AI Concepts & Model Building
-
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|-------|-------------|
-| 🐍 **Turtle Racing Game** | Python game demonstrating logic, loops, and GUI elements |
-| 🏦 **ATM Management System** | Console-based banking system (C++) |
-| 🌦️ **Weather App** | Java application using real-time weather data |
-| 🎵 **Spotify Clone** | Responsive frontend UI using HTML, CSS & JavaScript |
+| 🚀 Project | 📝 Description |
+|-----------|----------------|
+| 🐍 **Turtle Racing Game** | Python-based game demonstrating logic & GUI concepts |
+| 🏦 **ATM Management System** | Console-based banking system using C++ |
+| 🌦️ **Weather App** | Java application with real-time weather data |
+| 🎵 **Spotify Clone** | Frontend UI using HTML, CSS & JavaScript |
 
-➡️ *More projects available on my repositories.*
+➡️ *Explore more projects in my repositories.*
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaqran92&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaqran92&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaqran92&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaqran92&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🎯 Career Focus
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/shaqranhussain01/
-- 🌐 **Portfolio:** https://www.shaqranhussain.dev/
-- 💻 **GitHub:** https://github.com/Shaqran92
-- 📧 **Email:** shaqran124@gmail.com
+- Python Development
+- Data Analysis & Visualization
+- Machine Learning (Beginner → Intermediate)
+- Automation & Scripting
+- AI-powered applications
 
 ---
 
 ## ⚡ Fun Fact
 
-> I love turning **ideas into working code** and believe consistency beats talent every time.
+> I believe **consistency + curiosity** beats talent.
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+⭐ **If you like my work, don’t forget to star ⭐ my repositories!**
