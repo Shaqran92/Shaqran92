@@ -3,23 +3,24 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shaqran%20Hussain&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Python%20Developer%20|%20Data%20Analyst%20|%20Aspiring%20Data%20Scientist&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shaqran%20Hussain&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Python%20Developer%20|%20Python%20Desktop%20App%20Developer%20|%20Data%20Analyst%20|%20Aspiring%20Data%20Scientist&descAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;Aspiring+Data+Scientist;Turning+Data+into+Insights;Building+Clean+and+Scalable+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Python+Developer;Python+Desktop+App+Developer;Data+Analyst;Aspiring+Data+Scientist;Building+Desktop+Apps+with+Python;Turning+Data+into+Insights;Writing+Clean+and+Scalable+Code" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m **Shaqran Hussain**, a **Python Developer and Data Analyst** with a strong interest in **Data Science, Machine Learning, and AI**.  
-I enjoy solving real-world problems through **data-driven approaches**, building **automation tools**, and writing **clean, maintainable code**.
+I’m **Shaqran Hussain**, a **Python Developer, Python Desktop App Developer, and Data Analyst** with a strong interest in **Data Science, Machine Learning, and AI**.  
+I specialize in building **desktop applications using Python**, developing **automation tools**, and analyzing data to deliver **actionable insights**.
 
-- 🔭 Working on **Python, Data Analysis & Automation projects**
+- 🔭 Working on **Python Desktop Applications, Data Analysis & Automation**
+- 🖥️ Experienced in **Python GUI-based applications**
 - 🌱 Currently learning **Machine Learning & AI**
-- 📊 Passionate about **data storytelling & insights**
+- 📊 Passionate about **data visualization & storytelling**
 - 🧠 Strong problem-solving mindset
 - 📍 Jamshoro, Pakistan
 
@@ -48,12 +49,18 @@ I enjoy solving real-world problems through **data-driven approaches**, building
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,sql" />
+</p>
+
+### 🖥️ Python Desktop App Development
+<p>
+  <img src="https://img.shields.io/badge/Tkinter-FFDD54?style=flat&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-4CAF50?style=flat"/>
 </p>
 
 ### 📊 Data Analysis & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
@@ -75,12 +82,11 @@ I enjoy solving real-world problems through **data-driven approaches**, building
 
 | 🚀 Project | 📝 Description |
 |-----------|----------------|
-| 🐍 **Turtle Racing Game** | Python-based game demonstrating logic & GUI concepts |
+| 🖥️ **Python Desktop Apps** | GUI-based desktop applications using Tkinter / PyQt |
+| 🐍 **Turtle Racing Game** | Python game demonstrating logic & visuals |
 | 🏦 **ATM Management System** | Console-based banking system using C++ |
-| 🌦️ **Weather App** | Java application with real-time weather data |
+| 🌦️ **Weather App** | Java application using real-time weather data |
 | 🎵 **Spotify Clone** | Frontend UI using HTML, CSS & JavaScript |
-
-➡️ *Explore more projects in my repositories.*
 
 ---
 
@@ -96,16 +102,17 @@ I enjoy solving real-world problems through **data-driven approaches**, building
 ## 🎯 Career Focus
 
 - Python Development
+- **Python Desktop App Development**
 - Data Analysis & Visualization
 - Machine Learning (Beginner → Intermediate)
 - Automation & Scripting
-- AI-powered applications
+- AI-powered Applications
 
 ---
 
 ## ⚡ Fun Fact
 
-> I believe **consistency + curiosity** beats talent.
+> I enjoy building **desktop software with Python** as much as analyzing data.
 
 ---
 
